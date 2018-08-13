@@ -19,5 +19,4 @@
             * Notice that the size of the image is only 258 Mb since it has only the runtime and is optimized for production
     * Now you could run a container from the last resulted image by `docker run -ti web2:latest`
     * Currenlty we could run build and run the docker image and the app is running in port 80 inside the container but we need to add to expose the container from the outside
-    * 
   
